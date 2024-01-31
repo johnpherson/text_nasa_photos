@@ -21,7 +21,7 @@ params = {
     'api_key': api_key,
     # 'date': 'YYYY-MM-DD'  # You can specify a date if you want a picture from a specific day
 }
-
+# test
 # Making the GET request
 response = requests.get(url, params=params)
 
